@@ -40,7 +40,7 @@ public class PlayerMove : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.LeftAlt) || (Input.GetKeyDown(KeyCode.Space) && isGrounded))
         {
-            yvel = 11;
+            yvel = 20;
             print("do jump");
         }
 
