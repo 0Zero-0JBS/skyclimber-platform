@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 735b6a195c129ed4f97956ece3667ad8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5042255006551512858
+    second: Axe-Man_0
+  - first:
+      213: 4424812238542415108
+    second: Axe-Man_1
+  - first:
+      213: -6678796002089164027
+    second: Axe-Man_2
+  - first:
+      213: -329928745256606250
+    second: Axe-Man_3
+  - first:
+      213: 3314503666341170365
+    second: Axe-Man_4
+  - first:
+      213: 798532470170860075
+    second: Axe-Man_5
+  - first:
+      213: -7333503564758301373
+    second: Axe-Man_6
+  - first:
+      213: -2702286277677060411
+    second: Axe-Man_7
+  - first:
+      213: -6236144659589361627
+    second: Axe-Man_8
+  - first:
+      213: 3014591192623756891
+    second: Axe-Man_9
+  - first:
+      213: -8016925558889489310
+    second: Axe-Man_10
+  - first:
+      213: -6551410161615882618
+    second: Axe-Man_11
+  - first:
+      213: -521060867554059922
+    second: Axe-Man_12
+  - first:
+      213: -9195958464629105052
+    second: Axe-Man_13
+  - first:
+      213: -8586334072327561563
+    second: Axe-Man_14
+  - first:
+      213: -8933300158999301156
+    second: Axe-Man_15
+  - first:
+      213: -4388472692626809602
+    second: Axe-Man_16
+  - first:
+      213: 869682621754271644
+    second: Axe-Man_17
+  - first:
+      213: -7517831472433928648
+    second: Axe-Man_18
+  - first:
+      213: 7959586736878012584
+    second: Axe-Man_19
+  - first:
+      213: -5274288045462786257
+    second: Axe-Man_20
+  - first:
+      213: 3305990060743870148
+    second: Axe-Man_21
+  - first:
+      213: -3719200101288612368
+    second: Axe-Man_22
+  - first:
+      213: -4516359616382678572
+    second: Axe-Man_23
+  - first:
+      213: -2479863929160370713
+    second: Axe-Man_24
+  - first:
+      213: -1497063016246810383
+    second: Axe-Man_25
+  - first:
+      213: 3828488754616024783
+    second: Axe-Man_26
+  - first:
+      213: 2230204890369841319
+    second: Axe-Man_27
+  - first:
+      213: 6086573872292599562
+    second: Axe-Man_28
+  - first:
+      213: -8857742717943837332
+    second: Axe-Man_29
+  - first:
+      213: -8322997130391311767
+    second: Axe-Man_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Axe-Man_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 371
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8ef8b59cf460ab0800000000000000
+      internalID: -5042255006551512858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 371
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4052f1c8947186d30800000000000000
+      internalID: 4424812238542415108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 371
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5032d200c662053a0800000000000000
+      internalID: -6678796002089164027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 371
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d52ac1ed8bdb6bf0800000000000000
+      internalID: -329928745256606250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 300
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbccef6068b7ffd20800000000000000
+      internalID: 3314503666341170365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 300
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a36220d05f41b00800000000000000
+      internalID: 798532470170860075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 300
+        width: 24
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3454587cc592a3a90800000000000000
+      internalID: -7333503564758301373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 300
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce65a1a2fc8f7ad0800000000000000
+      internalID: -2702286277677060411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 300
+        width: 28
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5201a3df873c479a0800000000000000
+      internalID: -6236144659589361627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 300
+        width: 23
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b563c5bb7baf5d920800000000000000
+      internalID: 3014591192623756891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 228
+        width: 46
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c54affda82eb090800000000000000
+      internalID: -8016925558889489310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 229
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686300b3b27b415a0800000000000000
+      internalID: -6551410161615882618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 228
+        width: 48
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e695513d6e1d4c8f0800000000000000
+      internalID: -521060867554059922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 228
+        width: 45
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e198aaf74616080800000000000000
+      internalID: -9195958464629105052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 229
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae151057a637d880800000000000000
+      internalID: -8586334072327561563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 228
+        width: 51
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3f7e606da860480800000000000000
+      internalID: -8933300158999301156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 157
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc1a7156530913c0800000000000000
+      internalID: -4388472692626809602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 157
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c976ef89cbbb11c00800000000000000
+      internalID: 869682621754271644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 157
+        width: 33
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836e2546b1c4ba790800000000000000
+      internalID: -7517831472433928648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_19
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 157
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8468a27f1267e60800000000000000
+      internalID: 7959586736878012584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 157
+        width: 43
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fe91f87f6fdc6b0800000000000000
+      internalID: -5274288045462786257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 157
+        width: 33
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c64c91c17c31ed20800000000000000
+      internalID: 3305990060743870148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 86
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd681a863fb26cc0800000000000000
+      internalID: -3719200101288612368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 86
+        width: 42
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9479b8bdaa251c0800000000000000
+      internalID: -4516359616382678572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 86
+        width: 43
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5771335e0c59dd0800000000000000
+      internalID: -2479863929160370713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 92
+        width: 43
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8eb365e1d593be0800000000000000
+      internalID: -1497063016246810383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 91
+        width: 42
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce3775fc36812530800000000000000
+      internalID: 3828488754616024783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_27
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 86
+        width: 42
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a855da188743fe10800000000000000
+      internalID: 2230204890369841319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a079c2550bad77450800000000000000
+      internalID: 6086573872292599562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 15
+        width: 42
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d8729ade9f21580800000000000000
+      internalID: -8857742717943837332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe-Man_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a2e600536ce7c80800000000000000
+      internalID: -8322997130391311767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d6d765d21d120ee4882c1a812713444a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Axe-Man_0: -5042255006551512858
+      Axe-Man_1: 4424812238542415108
+      Axe-Man_10: -8016925558889489310
+      Axe-Man_11: -6551410161615882618
+      Axe-Man_12: -521060867554059922
+      Axe-Man_13: -9195958464629105052
+      Axe-Man_14: -8586334072327561563
+      Axe-Man_15: -8933300158999301156
+      Axe-Man_16: -4388472692626809602
+      Axe-Man_17: 869682621754271644
+      Axe-Man_18: -7517831472433928648
+      Axe-Man_19: 7959586736878012584
+      Axe-Man_2: -6678796002089164027
+      Axe-Man_20: -5274288045462786257
+      Axe-Man_21: 3305990060743870148
+      Axe-Man_22: -3719200101288612368
+      Axe-Man_23: -4516359616382678572
+      Axe-Man_24: -2479863929160370713
+      Axe-Man_25: -1497063016246810383
+      Axe-Man_26: 3828488754616024783
+      Axe-Man_27: 2230204890369841319
+      Axe-Man_28: 6086573872292599562
+      Axe-Man_29: -8857742717943837332
+      Axe-Man_3: -329928745256606250
+      Axe-Man_30: -8322997130391311767
+      Axe-Man_4: 3314503666341170365
+      Axe-Man_5: 798532470170860075
+      Axe-Man_6: -7333503564758301373
+      Axe-Man_7: -2702286277677060411
+      Axe-Man_8: -6236144659589361627
+      Axe-Man_9: 3014591192623756891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
