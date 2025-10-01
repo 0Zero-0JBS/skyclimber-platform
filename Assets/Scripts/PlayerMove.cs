@@ -9,6 +9,7 @@ public class PlayerMove : MonoBehaviour
     bool isGrounded;
     public Animator anim;
     bool result;
+    public int lives;
 
     LayerMask groundLayerMask;
 
@@ -18,6 +19,7 @@ public class PlayerMove : MonoBehaviour
 
         // set the mask to be "Ground"
         groundLayerMask = LayerMask.GetMask("Ground");
+        lives = 1;
     }
     void Update()
     {
