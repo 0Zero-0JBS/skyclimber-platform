@@ -7,8 +7,7 @@ public class PlayerMove : MonoBehaviour
     Rigidbody2D rb;
     float xv, yv;
     bool isGrounded;
-    public Animator anim;
-    bool result;
+    Animator anim; // ***
     public int lives;
 
     LayerMask groundLayerMask;
@@ -20,6 +19,8 @@ public class PlayerMove : MonoBehaviour
         // set the mask to be "Ground"
         groundLayerMask = LayerMask.GetMask("Ground");
         lives = 1;
+
+        anim = GetComponent<Animator>(); // ***
     }
     void Update()
     {
@@ -50,17 +51,8 @@ public class PlayerMove : MonoBehaviour
 
         isGrounded = ExtendedRayCollisionCheck(0, 0);
 
-        /*
-        if ()
-        {
-            result = true;
-        }
-        else
-        {
-            result = false;
-        }
-        */
-
+        anim.SetBool("walk", true);
+        anim.SetBool("walk", false);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
