@@ -17,7 +17,7 @@ public class EnemyScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        print("Enemy says: The player has " + playerMove.lives + "lives ");
+        print("Enemy says: The player has " + playerMove.lives + " lives ");
         if (Input.GetKey("space"))
         {
             helper.DoFlipObject(true);    // this will execute the method in HelperScript.cs

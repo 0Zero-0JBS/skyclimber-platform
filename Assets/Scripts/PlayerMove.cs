@@ -9,6 +9,7 @@ public class PlayerMove : MonoBehaviour
     bool isGrounded;
     Animator anim; // ***
     public int lives;
+    HelperScript helper;
 
     LayerMask groundLayerMask;
 
@@ -21,6 +22,9 @@ public class PlayerMove : MonoBehaviour
         lives = 1;
 
         anim = GetComponent<Animator>(); // ***
+
+        // Add the helper script and store a reference to it                                               
+        helper = gameObject.AddComponent<HelperScript>();
     }
     void Update()
     {
@@ -53,6 +57,7 @@ public class PlayerMove : MonoBehaviour
 
         anim.SetBool("walk", true);
         anim.SetBool("walk", false);
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
